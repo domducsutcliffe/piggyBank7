@@ -8,7 +8,7 @@ class AuthenticationController < ApplicationController
              status: :unauthorized
         elsif user.authenticate(params[:password])
             render json: {message: "Successfull login"}
-        elsif
+        else
             render json: {message: "Incorrect password"}
         end
     end

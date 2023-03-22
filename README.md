@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Up to 30.00.00 on https://www.youtube.com/watch?v=JrOTjHBoqI4
